@@ -1,4 +1,4 @@
-# Hi, I'm Likla N. 👋
+# Hello there, I'm Likla
 
 ### Full Stack Developer | AI/ML Enthusiast | Mechanics
 

@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://github.com/LC-Tech-com.png" 
+<!-- <img src="https://github.com/LC-Tech-com.png" 
   width="450" 
   height="450"
   style="border-radius: 50; object-fit: cover;"
-  alt="Likla N.">
+  alt="Likla N."> -->
 
 <br><br>
 

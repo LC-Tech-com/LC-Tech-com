@@ -1,8 +1,20 @@
-# Hello there, I'm Likla
+<div align="center">
 
-### Full Stack Developer | AI/ML Enthusiast | Mechanics
+<img src="https://github.com/LC-Tech-com.png" width="220" height="220" alt="Likla N.">
 
-I’m a software developer focused on building practical applications, intelligent systems, electronics and technology-driven solutions.
+<br><br>
+
+<h1>Likla N.</h1>
+
+<p>
+  <strong>Full Stack Developer · AI/ML Enthusiast </strong>
+</p>
+
+<p>
+  Building practical applications, intelligent systems, electronics, and technology-driven solutions.
+</p>
+
+</div>
 
 ---
 

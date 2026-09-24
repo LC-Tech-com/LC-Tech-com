@@ -67,7 +67,7 @@ Android applications integrating modern UI, APIs, databases, and device capabili
 
 ## 📊 What I’m Currently Working On
 
-- Full Stack Web Development
+- Deep Learning
 - Artificial Intelligence & Machine Learning
 - Computer Vision
 - Backend & API Development
